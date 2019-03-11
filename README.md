@@ -1,7 +1,7 @@
 # English :
 
 # Welcome to Blyat
-[![npm version](https://img.shields.io/badge/node.js-10.15.0-green.svg)](https://img.shields.io/badge/node.js-10.15.0-green.svg) [![npm version](https://img.shields.io/badge/Angular-6.2.2-brightgreen.svg)](https://img.shields.io/badge/Angular-6.2.2-brightgreen.svg) 
+[![npm version](https://img.shields.io/badge/Node-8.9.4-brightgreen.svg)]https://img.shields.io/badge/Node-8.9.4-brightgreen.svg) [![npm version](https://img.shields.io/badge/Angular-6.2.2-brightgreen.svg)](https://img.shields.io/badge/Angular-6.2.2-brightgreen.svg) 
 
 This project was made during our scholarship with the purpose of getting started with Angular.
 The project works with the Youtube official API.
